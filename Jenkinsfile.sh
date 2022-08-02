@@ -1,6 +1,6 @@
-mkdir dir1
+mkdir dir2
 pwd
-cd dir1
+cd dir2
 touch file1 file2 file3
 date
 whoami
